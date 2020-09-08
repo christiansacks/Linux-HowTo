@@ -11,4 +11,5 @@ I will try to add to this list as time permits<p>
 <li>linux6 - terminal file commands   - How to view and manipulate files from the Linux terminal</li>
 <li>linux7 - terminal fun commands    - Some fun commands from the Linux terminal</li>
 <li>linux8 - terminal APT package installer - Brief intoduction to the APT installer</li>
+<li>linux9 - terminal pacman package installer - Brief introduction to the pacman installer</li>
 </ul>
