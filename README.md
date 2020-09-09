@@ -12,4 +12,5 @@ I will try to add to this list as time permits<p>
 <li>linux7 - terminal fun commands    - Some fun commands from the Linux terminal</li>
 <li>linux8 - terminal APT package installer - Brief intoduction to the APT installer</li>
 <li>linux9 - terminal pacman package installer - Brief introduction to the pacman installer</li>
+<li>linux10 - terminal search and regular - Brief introduction to searching and regular terminal commands</li>
 </ul>
