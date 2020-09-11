@@ -13,4 +13,5 @@ I will try to add to this list as time permits<p>
 <li>linux8 - terminal APT package installer - Brief intoduction to the APT installer</li>
 <li>linux9 - terminal pacman package installer - Brief introduction to the pacman installer</li>
 <li>linux10 - terminal search and regular - Brief introduction to searching and regular terminal commands</li>
+<li>linux11 - desktop environments - Brief introduction to some desktop environments</li>
 </ul>
