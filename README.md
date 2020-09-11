@@ -14,4 +14,5 @@ I will try to add to this list as time permits<p>
 <li>linux9 - terminal pacman package installer - Brief introduction to the pacman installer</li>
 <li>linux10 - terminal search and regular - Brief introduction to searching and regular terminal commands</li>
 <li>linux11 - desktop environments - Brief introduction to some desktop environments</li>
+<li>linux12 - installing/removing desktop environments - How to install a new DE and remove a DE</li>
 </ul>
