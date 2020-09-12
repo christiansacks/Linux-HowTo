@@ -17,4 +17,5 @@ I will try to add to this list as time permits<p>
 <li>linux12 - installing/removing desktop environments - How to install a new DE and remove a DE</li>
   <li>linux13 - changing file permissions - How to view and change file permissions</li>
   <li>linux14 - Changing user and groups - How to view and change user and group of files</li>
+  <li>linux15 - misc terminal commands - Brief overview of some Misc terminal commands</li>
 </ul>
