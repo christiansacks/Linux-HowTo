@@ -18,4 +18,6 @@ I will try to add to this list as time permits<p>
   <li>linux13 - changing file permissions - How to view and change file permissions</li>
   <li>linux14 - Changing user and groups - How to view and change user and group of files</li>
   <li>linux15 - misc terminal commands - Brief overview of some Misc terminal commands</li>
+  <li>linux16 - introduction to bash scripts - Brief introduction to Bash scripting</li>
+  <li>linux17 - bash scripting basics - Bash Scripting basics (+)</li>
 </ul>
